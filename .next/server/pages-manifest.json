@@ -2,5 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/works/TextUtils": "pages/works/TextUtils.js",
+  "/works/QrCode": "pages/works/QrCode.js"
 }

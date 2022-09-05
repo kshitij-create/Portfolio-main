@@ -29,7 +29,7 @@ const Work = () => {
         </ListItem>
       </List>
 
-        <WorkImage src="/images/works/skyRocket_eyecatch.png" />
+        <WorkImage src="/images/works/SkyRocket_eyecatch.png" />
 
     </Container>
   )
