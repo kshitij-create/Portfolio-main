@@ -90,7 +90,7 @@ const Page = () => {
 						Kshitij is a full-stack developer based in Navi Mumbai with a
 						passion for coding. He is studying in 8th Standard in S.S High School & Junior College.
 						He Love doing Coding, studying and sports. In Coding he has done full-stack development through
-						Udemy courses, online and Youtube. He loves studying all subjects are his favourite Subjects. He also love Sports in sports he like Football, Cricket, Badmintion and Volleyball.
+						Udemy courses, online and Youtube.He loves studying all subjects are his favourite Subjects. He also love Sports in sports he like Football, Cricket, Badmintion and Volleyball.
 					</Paragraph>
 				</Box>
 				<Box align="center" my={6}>
